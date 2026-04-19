@@ -16,7 +16,7 @@ Since this is a standard Cargo project, just use the terminal:
 
 ```bash
 # Clone it
-
+git clone https://github.com/iHuGi/rust_logs.git
 
 # Run it
 cargo run -q
