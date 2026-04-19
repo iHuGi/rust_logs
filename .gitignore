@@ -10,3 +10,6 @@
 # Added for OS: ignore system-specific junk files
 .DS_Store
 Thumbs.db
+
+# Ban Windows metadata from the repo
+*:Zone.Identifier
